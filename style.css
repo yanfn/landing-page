@@ -128,3 +128,36 @@
     font-weight: bold;
     text-align: right;
 }
+
+.call-action {
+    padding: 70px 192px;
+}
+
+.action-container {
+    background: #3882F6;
+    color: #E5E7EB;
+    padding: 50px 100px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.t1 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.action-container button {
+    background: #3882F6;
+    color: #E5E7EB;
+    border: 2px solid #E5E7EB;
+    border-radius: 8px;
+    padding: 8px 42px;
+}
+
+.footer {
+    background: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 32px;
+}
