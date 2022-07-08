@@ -60,6 +60,13 @@
     border-radius: 8px;
     padding: 12px 42px;
     border: none;
+    opacity: 0.8;
+    transition: 0.1s;
+}
+
+.btn1:hover {
+    opacity: 1;
+    margin: 4px;
 }
 
 .container {
@@ -153,6 +160,12 @@
     border: 2px solid #E5E7EB;
     border-radius: 8px;
     padding: 8px 42px;
+    transition: 0.3s;
+}
+
+.action-container button:hover {
+    background: #E5E7EB;
+    color: #3882F6;
 }
 
 .footer {
